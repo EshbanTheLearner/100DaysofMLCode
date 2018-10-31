@@ -1,0 +1,5 @@
+https://github.com/nashory/gans-awesome-applications
+
+https://github.com/eriklindernoren/PyTorch-GAN
+
+https://github.com/eriklindernoren/Keras-GAN
