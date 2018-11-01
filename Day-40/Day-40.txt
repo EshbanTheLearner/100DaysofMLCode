@@ -1,0 +1,15 @@
+https://towardsdatascience.com/genetic-algorithm-implementation-in-python-5ab67bb124a6
+
+https://towardsdatascience.com/evolution-of-a-salesman-a-complete-genetic-algorithm-tutorial-for-python-6fe5d2b3ca35
+
+https://github.com/llSourcell/neural-network-genetic-algorithm
+
+https://github.com/llSourcell/genetic_algorithm_challenge
+
+https://github.com/llSourcell/citius-invaders
+
+https://github.com/nhrigby/genetic_algorithm_challenge
+
+https://github.com/ezstoltz/genetic-algorithm/blob/master/genetic_algorithm_TSP.ipynb
+
+https://github.com/aqibsaeed/Genetic-CNN/blob/master/Genetic%20CNN.ipynb
